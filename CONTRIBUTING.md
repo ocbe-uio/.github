@@ -1,14 +1,14 @@
 # Contributing Guide
 
-Thank you for your interest in contributing! We welcome all contributions, whether it's reporting issues, suggesting improvements, or submitting pull requests.
+Thank you for your interest in contributing to this project! We welcome all contributions, whether it's reporting issues, suggesting improvements, or submitting pull requests.
 
 ## Style Guide
 
-- **R code:**  
-  - Follow the [tidyverse style guide](https://style.tidyverse.org/).
+- **R code:**
+  - Follow the [tidyverse style guide](https://style.tidyverse.org/), or at least be consistent on your coding.
   - Use the [`styler`](https://styler.r-lib.org/) package to automatically format code.
   - Use [`usethis`](https://usethis.r-lib.org/) for package setup and workflow helpers.
-- **Documentation:**  
+- **Documentation:**
   - Write clear, concise documentation and comments.
   - Use [roxygen2](https://roxygen2.r-lib.org/) for documenting R functions.
 
@@ -31,13 +31,13 @@ Thank you for your interest in contributing! We welcome all contributions, wheth
   2. Make your edits directly in the browser.
   3. Open a pull request with a clear description of your changes.
 - **Git basics (optional):**
-  - Clone your fork:  
+  - Clone your fork:
     `git clone https://github.com/your-username/repo-name.git`
-  - Create a branch:  
+  - Create a branch:
     `git checkout -b my-feature`
-  - Commit and push your changes:  
-    `git add .`  
-    `git commit -m "Describe your change"`  
+  - Commit and push your changes:
+    `git add .`
+    `git commit -m "Describe your change"`
     `git push origin my-feature`
   - Open a pull request from your branch.
 
