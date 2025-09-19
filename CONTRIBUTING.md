@@ -43,11 +43,3 @@ Thank you for your interest in contributing! We welcome all contributions, wheth
 
 - Ensure your code passes all checks and tests.
 - Reference related issues in your pull request description (e.g., "Closes #123").
-
-## Additional Resources
-
-- [usethis cheatsheet](https://usethis.r-lib.org/reference/cheatsheet.html)
-- [styler documentation](https://styler.r-lib.org/)
-- [tidyverse style guide](https://style.tidyverse.org/)
-
-Thank you for helping us improve our projects!
