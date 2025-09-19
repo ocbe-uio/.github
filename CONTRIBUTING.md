@@ -32,7 +32,7 @@ Thank you for your interest in contributing to this project! We welcome all cont
   3. Open a pull request with a clear description of your changes.
 - **Git basics (optional):**
   - Clone your fork:
-    `git clone https://github.com/your-username/repo-name.git`
+    `git clone https://github.com/your-username/<repository-name>.git`
   - Create a branch:
     `git checkout -b my-feature`
   - Commit and push your changes:
