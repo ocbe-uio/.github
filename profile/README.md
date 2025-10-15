@@ -16,7 +16,7 @@ All our research software is **open source**, and we welcome contributions from 
 
 - **Report bugs or request features:** Visit a repository's Issues page by clicking the "Issues" tab at the top of its GitHub page to submit bug reports or feature requests
 - **First-time contributors:** Some repositories have a [contribute page](https://github.com/ocbe-uio/rangejoin/contribute) listing issues that are ideal for first-time contributors
-- **Code contributions:** Check out our [Contributing Guide](../CONTRIBUTING.md) for detailed information on how to submit pull requests and follow our coding standards
+- **Code contributions:** Check out our [Contributing Guide](../../CONTRIBUTING.md) for detailed information on how to submit pull requests and follow our coding standards
 
 Whether you're fixing a typo, reporting a bug, or implementing a new feature, your contributions help improve research software for the entire scientific community!
 
