@@ -16,7 +16,7 @@ All our research software is open source, and we welcome all contributions from 
 
 - **Report bugs and request features:** Visit a repository's Issues page by clicking the "Issues" tab at the top of its GitHub page to submit bug reports or feature requests
 - **First-time contributors:** Some repositories have a contribute page (accessible via the repository's `/contribute` path) listing issues that are ideal for first-time contributors
-- **Code contributions:** Check out our [Contributing Guide](https://github.com/ocbe-uio/.github/blob/main/CONTRIBUTING.md)) for detailed information on how to submit pull requests and follow our coding standards
+- **Code contributions:** Check out our [Contributing Guide](https://github.com/ocbe-uio/.github/blob/main/CONTRIBUTING.md) for detailed information on how to submit pull requests and follow our coding standards
 
 ## Documentation & Resources
 
